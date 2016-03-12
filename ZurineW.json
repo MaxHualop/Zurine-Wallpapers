@@ -2,39 +2,57 @@
   "wallpapers": [
     {
       "author": "Julian Gomez",
-      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/Anthea.png",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/Anthea.png",
       "name": "Anthea",
-      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/anthea_thumbnail.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/anthea_thumbnail.jpg"
     },
     {
       "author": "Julian Gomez",
-      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/Anthea2.png",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/Anthea2.png",
       "name": "Anthea Black",
-      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/anthea2_thumbnail.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/anthea2_thumbnail.jpg"
     },
     {
       "author": "Julian Gomez",
-      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/CALLIDORA.png",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/CALLIDORA.png",
       "name":" Callidora",
-      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/CALLIDORA_tumbnail.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/CALLIDORA_tumbnail.jpg"
     },
     {
       "author": "Julian Gomez",
-      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/CALLIDORA2.png",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/CALLIDORA2.png",
       "name":" Callidora Black",
-      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/CALLIDORA2_tumbnail.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/CALLIDORA2_tumbnail.jpg"
     },
     {
       "author": "Julian Gomez",
-      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/eldoris.png",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/eldoris.png",
       "name":" Eldoris",
-      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/eldoris_thumbnail.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/eldoris_thumbnail.jpg"
     },
     {
       "author": "Julian Gomez",
-      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/eldoris2.png",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/eldoris2.png",
       "name":" Eldoris Black",
-      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/eldoris2_thumbnail.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/eldoris2_thumbnail.jpg"
+    },
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/Jacinda.png",
+      "name":" Jacinda",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/Jacinda_thumbnail.png"
+    },
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/Jacinda_Black.png",
+      "name":" Jacinda Black",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/Jacinda_Black_thumbnail.png"
+    },
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/Mountain.png",
+      "name":" Mountain",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Zurine-Wallpapers/master/Mountain_thumbnail.png"
     }
   ]
 }

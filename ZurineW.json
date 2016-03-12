@@ -1,0 +1,40 @@
+{
+  "wallpapers": [
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/Anthea.png",
+      "name": "Anthea",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/anthea_thumbnail.jpg"
+    },
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/Anthea2.png",
+      "name": "Anthea Black",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/anthea2_thumbnail.jpg"
+    },
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/CALLIDORA.png",
+      "name":" Callidora",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/CALLIDORA_tumbnail.jpg"
+    },
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/CALLIDORA2.png",
+      "name":" Callidora Black",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/CALLIDORA2_tumbnail.jpg"
+    },
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/eldoris.png",
+      "name":" Eldoris",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/eldoris_thumbnail.jpg"
+    },
+    {
+      "author": "Julian Gomez",
+      "url": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/eldoris2.png",
+      "name":" Eldoris Black",
+      "thumbnail": "https://raw.githubusercontent.com/Axinen/Celandia-Icon-Pack/master/eldoris2_thumbnail.jpg"
+    }
+  ]
+}
